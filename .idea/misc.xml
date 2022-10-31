@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/drawable/ic_check_black_24dp.xml" value="0.204" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/drawable/ic_launcher2___copy.xml" value="0.302" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/drawable/ic_replay_black_24dp.xml" value="0.204" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/activity_digital_signature.xml" value="0.341645885286783" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/activity_free_hand.xml" value="0.341645885286783" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/activity_signature.xml" value="0.14722222222222223" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/app_bar_main.xml" value="0.341645885286783" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/content_main.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/element_prop_menu_layout.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/file_alert_dialog.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/fragment_layout.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/mainitemgrid.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/nav_header_main.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/optiondialog.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/passworddialog.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/pdfviewer.xml" value="0.25" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/rename_layout.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/sheet_list.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/layout/signature_item.xml" value="0.371875" />
+        <entry key="..\:/sign_pdf_clone/pdf_signer/app/src/main/res/menu/freehandmenu.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
